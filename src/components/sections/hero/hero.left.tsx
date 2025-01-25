@@ -36,10 +36,9 @@ const HeroLeft = (props: IProps) => {
             <Typewriter
                 options={{
                     strings: [
-                        "Software Developer",
-                        "Freelancer",
-                        "MERN Stack Developer",
-                        "Open Source Contributor",
+                        "Project Manager",
+                        "Operator Lead",
+                        "E-commerce Executive",
                     ],
                     autoStart: true,
                     loop: true,
