@@ -16,47 +16,62 @@ export const EXPERIENCES = [
     {
         id: 1,
         title: {
-            vi: "Lập Trình Viên",
-            en: "Fullstack Developer"
+            vi: "Kinh Doanh Online",
+            en: "E-Commerce Seller"
         },
         company: {
-            vi: "Công ty ABCXYZ Ltd.",
-            en: "ABCXYZ Ltd."
+            vi: "Tự kinh doanh trên Sàn TMĐT",
+            en: "Business on E-Com Platform"
         },
         duration: {
-            vi: "Jan 2024 - Hiện tại",
-            en: "Jan 2024 - Present"
+            vi: "Tháng 10/2010 - Tháng 8/2023",
+            en: "Oct 2018 - Aug 2023"
         }
     },
     {
         id: 2,
         title: {
-            vi: "Lập Trình Viên",
-            en: "Fullstack Developer"
+            vi: "Vận Hành Studio Chụp Ảnh Sản Phẩm",
+            en: "Operate Product Phtography Studio"
         },
 
         company: {
-            vi: "Công ty F (freelancer)",
-            en: "F (freelancer)"
+            vi: "Studio Chụp Ảnh Sản Phẩm Juva Media",
+            en: "Product Photography Juva Media"
         },
         duration: {
-            vi: "Tháng 6/2022 - Tháng 1/2024",
-            en: "Jun 2022 - Jan 2024"
+            vi: "Tháng 6/2023 - Present",
+            en: "Jun 2023 - Present"
         }
     },
     {
         id: 3,
         title: {
-            vi: "Dự án tự làm",
-            en: "Self Employed"
+            vi: "Quản Lý Dự Án",
+            en: "Project Manager"
         },
         company: {
-            vi: "Học kiến thức mới mỗi ngày",
-            en: "Code and build something in everyday."
+            vi: "Công ty TNHH Aegona",
+            en: "Aegona Com.Ltd"
         },
         duration: {
-            vi: "Tháng 1/2020 - Hiện tại",
-            en: "Jan 2020 - Present"
+            vi: "Tháng 2/2024 - Tháng 11/2024",
+            en: "Feb 2024 - Nov 2024"
+        }
+    },
+    {
+        id: 4,
+        title: {
+            vi: "Nhân Viên Kinh Doanh",
+            en: "Sale Executive"
+        },
+        company: {
+            vi: "Công ty TNHH Kim Hoa",
+            en: "Kim Hoa Com.Ltd"
+        },
+        duration: {
+            vi: "Tháng 4/2018 - Tháng 10/2019",
+            en: "Apr 2018 -  Oct 2019"
         }
     }
 ]
