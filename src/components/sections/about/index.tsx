@@ -17,11 +17,16 @@ const About = () => {
                     <h3 className="text-center mb-md-5 mb-2">Let Me Introduce <span className="brand-red">Who I am</span> </h3>
                     <div>
                         <div>
-                            <p> Hi Everyone, I am HoiDanIT from Hanoi, VietNam.</p>
+                            <p>  Hi Everyone, I am Dien An from Ho Chi Minh City, VietNam.</p>
 
-                            <p> I am currently employed as a a freelance dev (start-up).</p>
+                            <p> I am currently manager at Juva Media (Product Photography
+                Studio).</p>
 
-                            <p> I have completed Bachelor's degree in Software Engineer at Hanoi University of Science and Technology (HUST).</p>
+                            <p> I have over fours year operate store online, so I know how to
+                setup the store from zero to hight revenue. Beside that, I have
+                experiences build brand for product photography studio as manage
+                whole team members and control many task from communicate client
+                to unsderstanding what they need to complete their request.</p>
                         </div>
                     </div>
                     <div>
