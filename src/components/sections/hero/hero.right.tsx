@@ -66,12 +66,12 @@ const HeroRight = () => {
                     </div>
                     <div>
                         <span className="ms-5 ps-3 text-blue-100">Revenue</span>
-                        <span className="me-2 ">E-Com Store from 0</span>
+                        <span className="me-2 "> E-Com Store from 0</span>
                         <span className='text-blue-100'>to 800 million vnd</span>
                     </div>
                     <div>
                         <span className="ms-5 ps-3 text-blue-100">Buil</span>
-                        <span className="me-2 ">problemSolver</span>
+                        <span className="me-2 "> problemSolver</span>
                         <span className='text-blue-100'>&amp;&amp;</span>
                     </div>
                     <div>
