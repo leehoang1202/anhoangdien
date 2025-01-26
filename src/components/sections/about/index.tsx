@@ -14,7 +14,7 @@ const About = () => {
         <>
             <Row>
                 <Col md={6} xs={12}>
-                    <h3 className="text-center mb-md-5 mb-2">Know Who <span className="brand-red">I'M</span> </h3>
+                    <h3 className="text-center mb-md-5 mb-2">Let Me Introduce <span className="brand-red">Who I am</span> </h3>
                     <div>
                         <div>
                             <p> Hi Everyone, I am HoiDanIT from Hanoi, VietNam.</p>
