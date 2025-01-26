@@ -19,7 +19,6 @@ const SocialMedia = (props: IProps) => {
                 <a href={tiktok} target='_blank' className="highlight" title="Tiktok Dien An">
                     <FaTiktok size={30} />
                 </a>
-                </a>
                 <a href={facebook} target='_blank' className="highlight" title="Facebook Dien An">
                     <FaFacebook size={30} />
                 </a>
