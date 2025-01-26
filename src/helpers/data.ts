@@ -133,21 +133,13 @@ export const SKILLS_DATA = [
     'Javascript',
     'Typescript',
     'React',
-    'Next JS',
     'Tailwind',
-    'MongoDB',
-    'MySQL',
-    'PostgreSQL',
     'Git',
-    'AWS',
-    'Bootstrap',
-    'Docker',
-    'Go',
-    'Figma',
-    'Firebase',
-    'MaterialUI',
-    'Nginx',
-    'Strapi'
+    'Photoshop',
+    'Microsoft Office',
+    'Premiere Pro',
+    'Lightroom',
+    'Wordpress',
   ]
   
   // Choose your skills from below. Make sure it's in the same format and spelled correctly.
