@@ -72,7 +72,7 @@ const About = () => {
                                 <div className="p-3 relative">
                                     <div className="experience-container">
                                         <div className="duration-text">
-                                            <p>20xx-20xx</p>
+                                            <p>2015-2020</p>
                                         </div>
                                         <div className="details">
                                             <div className="icon">
