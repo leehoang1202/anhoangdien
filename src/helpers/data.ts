@@ -54,8 +54,8 @@ export const EXPERIENCES = [
             en: "Business on E-Com Platform"
         },
         duration: {
-            vi: "Tháng 10/2010 - Tháng 8/2023",
-            en: "Oct 2018 - Aug 2023"
+            vi: "Tháng 10/2019 - Tháng 8/2023",
+            en: "Oct 2019 - Aug 2023"
         }
     },
     {
