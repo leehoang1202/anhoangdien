@@ -15,21 +15,6 @@ export const EXPERIENCES = [
     {
         id: 1,
         title: {
-            vi: "Kinh Doanh Online",
-            en: "E-Commerce Seller"
-        },
-        company: {
-            vi: "Tự kinh doanh trên Sàn TMĐT",
-            en: "Business on E-Com Platform"
-        },
-        duration: {
-            vi: "Tháng 10/2010 - Tháng 8/2023",
-            en: "Oct 2018 - Aug 2023"
-        }
-    },
-    {
-        id: 2,
-        title: {
             vi: "Vận Hành Studio Chụp Ảnh Sản Phẩm",
             en: "Operate Product Phtography Studio"
         },
@@ -44,7 +29,7 @@ export const EXPERIENCES = [
         }
     },
     {
-        id: 3,
+        id: 2,
         title: {
             vi: "Quản Lý Dự Án",
             en: "Project Manager"
@@ -56,6 +41,21 @@ export const EXPERIENCES = [
         duration: {
             vi: "Tháng 2/2024 - Tháng 11/2024",
             en: "Feb 2024 - Nov 2024"
+        }
+    },
+    {
+        id: 3,
+        title: {
+            vi: "Kinh Doanh Online",
+            en: "E-Commerce Seller"
+        },
+        company: {
+            vi: "Tự kinh doanh trên Sàn TMĐT",
+            en: "Business on E-Com Platform"
+        },
+        duration: {
+            vi: "Tháng 10/2010 - Tháng 8/2023",
+            en: "Oct 2018 - Aug 2023"
         }
     },
     {
